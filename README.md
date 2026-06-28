@@ -19,9 +19,9 @@ Slide 29 of the above linked presentation deck (credit to Michael Paul Majurski/
 
 The originial repo does a very good job of presenting the pattern. My aim here is to demonstrate how to effectively implement it on a homelab, to be commented, iterated and improved upon, in the interest of extending towards the enterprise or academic research work.
 
-### Read the wiki for more information
+### Read the [wiki](https://github.com/szabopaul/distributed-agentic-research-evaluation-probes/wiki) for more information
 
-Information outside the scope of this repo (i.e.: "not code", my ramblings, installation instructions, etc.) will live in the Wiki tab.
+Information outside the scope of this repo (i.e.: "not code"/diagrams, my ramblings, installation instructions, etc.) will live in the [Wiki](https://github.com/szabopaul/distributed-agentic-research-evaluation-probes/wiki) tab.
 
 ### Credit to the author
 
