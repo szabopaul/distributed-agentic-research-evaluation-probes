@@ -3,7 +3,7 @@
 
 ## Preamble
 
-Earlier in April, (U.S.) NIST presented the "Agentic Research Evaluation Probes" pattern, along with mmajurski's repo, which this one is forked from.
+Earlier in April, (U.S.) NIST presented the "Agentic Research Evaluation Probes" pattern, along with mmajurski's repo, which this project is forked from.
 
 ### External link and presented slides
 
