@@ -1,3 +1,38 @@
+
+# Distributed Agentic Research Evaluation Probes
+
+## Preamble
+
+Earlier in April, (U.S.) NIST presented the "Agentic Research Evaluation Probes" pattern, along with mmajurski's repo, which this one is forked from.
+
+### External link and presented slides
+
+You can find a video of the presentation, along with a link to the slide deck [here](https://www.nist.gov/news-events/events/2026/04/nist-information-technology-laboratory-ai-webinar-series-building) (by clicking this link, you are accessing a U.S. government website).
+
+### Gist 
+
+Slide 29 of the above linked presentation deck (credit to Michael Paul Majurski/U.S. NIST with thanks) provides a very clear visual representation of the pattern:
+
+![A visual representation of the pattern](presentation/gist.png)
+
+## Why the fork?
+
+The originial repo does a very good job of presenting the pattern. My aim here is to demonstrate how to effectively implement this pattern in a homelab, to be commented, iterated and improved upon, in the interest of extending it towards the enterprise or academic research work.
+
+## Read the wiki for more information
+
+Information outside the scope of this repo (i.e.: "not code", my ramblings, installation instructions, etc.) will live in the Wiki tab.
+
+## Credit to the author
+
+My thanks to Michael Paul Majurski and the fine folks at (U.S.) NIST for sharing this valuable pattern.
+
+---
+
+Original README at time of forking follows.. see [LICENSE](LICENSE) for project license.
+
+---
+
 # Open Deep Research
 
 An **agentic AI tool** for running and evaluating deep research over **local corpora of PDF and Markdown documents**. Given a research question, it orchestrates a programmatic AI pipeline to exhaustively evaluate, synthesize, and verify information from your documents, producing a **Markdown report with inline footnote citations** -- then automatically assesses the quality of every cited claim using **LM-judge evaluation probes**.
