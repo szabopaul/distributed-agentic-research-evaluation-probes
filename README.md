@@ -33,7 +33,7 @@ _...where the core (multi) agentic research engine is comprised of:_
 
 [Announcement link](https://airflow.apache.org/blog/common-ai-provider/)
 
-Page dump [Introducing the Common AI Provider - LLM and AI Agent Support for Apache Airflow.pdf](https://github.com/user-attachments/files/29927478/Introducing.the.Common.AI.Provider.-.LLM.and.AI.Agent.Support.for.Apache.Airflow.pdf)
+Page dump [Introducing the Common AI Provider - LLM and AI Agent Support for Apache Airflow.pdf](https://github.com/user-attachments/files/29929614/Introducing.the.Common.AI.Provider.-.LLM.and.AI.Agent.Support.for.Apache.Airflow.pdf)
 
 ### Why the fork?
 
