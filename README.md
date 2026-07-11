@@ -15,6 +15,12 @@ Slide 29 of the above linked presentation deck (credit to Michael Paul Majurski/
 
 ![A visual representation of the pattern](presentation/gist.png)
 
+_...where the core (multi) agentic research engine is comprised of:_
+
+![A visual representation of the core (multi) agentic research engine employed in the pattern](presentation/gist2.png)
+
+(Slide 22 of the above linked presentation deck, again with my thanks to mmajurski/U.S. NIST).
+
 ### Then, this happened
 
 **7 days** after the NIST conference, Apache Airflow announced:
