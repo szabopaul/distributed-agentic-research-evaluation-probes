@@ -42,7 +42,7 @@ The original repo does a very good job of presenting the pattern. My aim here is
 - Centralized logging
 - Multi provider management
 - Fault tolerance
-- Hooks/connectors/an API to programatically trigger workflows (called Directed Acyclic Graphs under Apache Airflow, or more simply DAGs)
+- Hooks/connectors/an API to programatically trigger workflows (called [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph) under Apache Airflow, or more simply "dags")
 - Point and click interface accessible to people who can't necessarily write DAG script/code
 - Did I mention it's [Free and Open-source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS)
 
