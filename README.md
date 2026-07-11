@@ -11,7 +11,7 @@ You can find a video of the presentation, along with a link to the slide deck [h
 
 ### Gist 
 
-Slide 29 of the above linked presentation deck (credit to Michael Paul Majurski/U.S. NIST with thanks) provides a very clear visual representation of the pattern:
+Slide 30 of the above linked presentation deck (credit to Michael Paul Majurski/U.S. NIST with thanks) provides a very clear visual representation of the pattern:
 
 ![A visual representation of the pattern](presentation/gist.png)
 
