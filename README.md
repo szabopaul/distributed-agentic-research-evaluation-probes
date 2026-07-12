@@ -9,42 +9,15 @@ Earlier in April, (U.S.) NIST presented the "Agentic Research Evaluation Probes"
 
 You can find a video of the presentation, along with a link to the slide deck [here](https://www.nist.gov/news-events/events/2026/04/nist-information-technology-laboratory-ai-webinar-series-building) (by clicking this link, you are accessing a U.S. government website).
 
-### Gist 
+### Gist
 
 Slide 29 of the above linked presentation deck (credit to Michael Paul Majurski/U.S. NIST with thanks) provides a very clear visual representation of the pattern:
 
 ![A visual representation of the pattern](presentation/gist.png)
 
-### Then, this happened
-
-**7 days** after the NIST conference, Apache Airflow announced:
-
----
-
-<img width="1478" height="1336" alt="Introducing the Common AI Provider - LLM and AI Agent Support for Apache Airflow" src="https://github.com/user-attachments/assets/732a2bc1-09c6-478c-b262-b0387828e323" />
-
----
-
-[Announcement link](https://airflow.apache.org/blog/common-ai-provider/)
-
-Page dump [Introducing the Common AI Provider - LLM and AI Agent Support for Apache Airflow.pdf](https://github.com/user-attachments/files/29927478/Introducing.the.Common.AI.Provider.-.LLM.and.AI.Agent.Support.for.Apache.Airflow.pdf)
-
 ### Why the fork?
 
-The original repo does a very good job of presenting the pattern. My aim here is to demonstrate how to effectively implement it using Apache Airflow on a homelab, to be commented, iterated and improved upon, in the interest of extending towards the enterprise or academic research work.
-
-### Why do this with Apache Airflow
-
-[Apache Airflow®](https://airflow.apache.org/) is "a platform created by the community to programmatically author, schedule and monitor workflows". Everyone seems impressed by vertically scrolling text on a black terminal background, but for contemporary "in-production" environments, you quickly find yourself in need of features such as the following:
-- [Role-based access control](https://en.wikipedia.org/wiki/Role-based_access_control) (RBAC)
-- Auditing
-- Distributed architecture
-- Centralized logging
-- Multi provider management
-- Fault tolerance
-- Hooks/connectors/an API to programatically trigger workflows (called Directed Acyclic Graphs under Apache Airflow, or more simply DAGs)
-- Point and click interface accessible to people who can't necessarily write DAG script/code
-- Did I mention it's [Free and Open-source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS)
+The original repo does a very good job of presenting the pattern. My aim here is to demonstrate how to effectively implement it on a homelab, to be commented, iterated and improved upon, in the interest of extending towards the enterprise or academic research work.
 
 ### Read the [wiki](https://github.com/szabopaul/distributed-agentic-research-evaluation-probes/wiki) for more information
 
