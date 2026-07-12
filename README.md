@@ -9,7 +9,7 @@ Earlier in April, (U.S.) NIST presented the "Agentic Research Evaluation Probes"
 
 You can find a video of the presentation, along with a link to the slide deck [here](https://www.nist.gov/news-events/events/2026/04/nist-information-technology-laboratory-ai-webinar-series-building) (by clicking this link, you are accessing a U.S. government website).
 
-### Gist
+### Gist 
 
 Slide 29 of the above linked presentation deck (credit to Michael Paul Majurski/U.S. NIST with thanks) provides a very clear visual representation of the pattern:
 
