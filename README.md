@@ -1,6 +1,15 @@
 
 # Distributed Agentic Research Evaluation Probes
 
+- [Preamble](#preamble)
+    - [External link and presented slides](#external-link-and-presented-slides)
+    - [Gist](#gist)
+    - [Then, this happened](#then-this-happened)
+- [Why the fork?](#why-the-fork)
+- [Why do this with Apache Airflow?](#why-do-this-with-apache-airflow)
+- [Read the wiki](#read-the-wiki-for-more-information)
+- [Credit to the author](#credit-to-the-author)
+
 ## Preamble
 
 Earlier in April (20260407), the (U.S.) [National Institute of Standards and Technology](https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology) ([NIST](https://github.com/usnistgov)) presented the "Agentic Research Evaluation Probes" pattern, along with mmajurski's repo, which this project is forked from.
@@ -35,11 +44,11 @@ _...where the core (multi) agentic research engine is comprised of:_
 
 Page dump [Introducing the Common AI Provider - LLM and AI Agent Support for Apache Airflow.pdf](https://github.com/user-attachments/files/29929614/Introducing.the.Common.AI.Provider.-.LLM.and.AI.Agent.Support.for.Apache.Airflow.pdf)
 
-### Why the fork?
+## Why the fork?
 
 The original repo does a very good job of presenting the pattern. My aim here is to demonstrate how to effectively implement it using Apache Airflow on a homelab, to be commented, iterated and improved upon, in the interest of extending towards the enterprise or academic research work.
 
-### Why do this with Apache Airflow
+## Why do this with Apache Airflow?
 
 [Apache Airflow®](https://airflow.apache.org/) is "a platform created by the community to programmatically author, schedule and monitor workflows". Everyone seems impressed by vertically scrolling text on a black terminal background, but for contemporary "in-production" environments, you quickly find yourself in need of features such as the following:
 - [Role-based access control](https://en.wikipedia.org/wiki/Role-based_access_control) (RBAC)
@@ -52,11 +61,11 @@ The original repo does a very good job of presenting the pattern. My aim here is
 - Point and click interface accessible to people who can't necessarily write DAG script/code
 - Did I mention it's [Free and Open-source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS)
 
-### Read the [wiki](https://github.com/szabopaul/distributed-agentic-research-evaluation-probes/wiki) for more information
+## Read the [wiki](https://github.com/szabopaul/distributed-agentic-research-evaluation-probes/wiki) for more information
 
 Information outside the scope of this repo (i.e.: "not code"/diagrams, my ramblings, installation instructions, etc.) will live in the [Wiki](https://github.com/szabopaul/distributed-agentic-research-evaluation-probes/wiki) tab.
 
-### Credit to the author
+## Credit to the author
 
 My thanks to Michael Paul Majurski and the fine folks at (U.S.) NIST for sharing this valuable pattern.
 
